@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/CompareByPriority.cpp
+Patient.h
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/Patient.h
+
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/HospitalMethods.cpp
+queue
+-
+algorithm
+-
+CompareByPriority.cpp
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/CompareByPriority.cpp
+Patient.h
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/Patient.h
+cstdlib
+-
+unistd.h
+-
+iostream
+-
+fstream
+-
+logger.h
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/logger.h
+string
+-
+
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/Patient.h
+string
+-
+vector
+-
+
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/User.h
+string
+-
+
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/logger.h
+string
+-
+iostream
+-
+
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+Patient.h
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/Patient.h
+HospitalMethods.cpp
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/HospitalMethods.cpp
+User.h
+D:/COLLEGE/NKU/Spring 2020 - 2021/CSC 402-001 Advanced Programming Methods/Homeworks/HW4/User.h
+

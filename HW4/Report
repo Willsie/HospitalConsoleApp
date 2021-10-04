@@ -1,0 +1,46 @@
+// Author   : Wie Lie Sie.
+// Class    : CSC 402 - Advanced Programming Languages.
+// Project  : Hospital Application.
+// Date     : 4/25/2021.
+
+***************************************************REPORT***************************************************************
+
+When the app started, it will start in debug mode so everything will be displayed to the console.
+The result of the console test run is attached as “Test Run – Console Report.pdf”.
+The file is zipped together with this report file and the source code in a zipped folder named “wieliesie-hw2”.
+
+The summary of the testing in DEBUG mode are :
+•	As a nurse, I want to add a patient to the system.
+	Tested - Nurse can add multiple patients to the system.
+•	As a doctor, I want to treat a patient in triaged order.
+	Tested - Doctor can treat patient based on their priority – smaller priority number = higher 	priority.
+	Tested - The highest priority will be on the top of the priority_queue called “triaged List”.
+	A patient will be treated for a random 1 to 3 seconds before being moved into treated list.
+•	As a doctor, I want to print out a patient’s information as a report.
+	Tested and it is displaying all patient’s information (from the triaged list and the treated list).
+•	As a doctor, I want to print out a report of all treated patients.
+	Tested and it is displaying all treated patient’s information.
+•	As a doctor, I want to know the next patient to be treated.
+	Tested and it is displaying the first patient’s information that has the highest priority from a triaged list.
+•	As a hospital admin, I want to print out a report of all the patients in triage.
+	Tested, all patients from triaged list are being displayed.
+•	As a hospital admin, I want a single command to treat all patients.
+	Tested, all patients will be treated (takes somewhere between 1 to 3 seconds randomly)
+•	As a hospital admin, I want a print out of all patients by doctor.
+	Tested, user will have to enter doctor name and all patients under that doctor will be displayed.
+•	As any user, I want to be able to print out a guide on each command the system offers. (eg "help" functionality).
+	Tested, any user will be able to enter “help” or “quit” anytime when it is being prompted to enter a string input.
+•	As a sys admin, I want to bulk add patients into the system from a file (see patients.txt)
+	Tested, all patients are entered into a triaged list based on their priorities.
+•	As a sys admin, I want some way to turn on debug mode.
+	Tested, system admin will be able to switch into debug mode by selecting “debug” menu option.
+•	As a sys admin, I want all operations of the system by each user to be logged to the console in debug mode.
+	Tested, outputs will be displayed into the console when debug mode is active.
+
+The summary of the testing in NORMAL mode are :
+
+•	As a sys admin, I want all operations of the system by each user to be logged to a file in normal mode.
+	Tested, system admin can switch the program into normal mode by selected “normal” menu option.
+	Tested, on normal mode, the system activities will be logged into log.txt file (part of the source code).
+	Menu options – when user selected “help” can still be displayed on console on purpose.
+

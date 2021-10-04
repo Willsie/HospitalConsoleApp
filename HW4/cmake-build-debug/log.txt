@@ -1,0 +1,131 @@
+...entering string input...(enter help to display menu) 
+System Admin selected: add
+Press enter to start menu option...
+Enter file name: 
+Opening file: patient.txt
+Closing file input stream...
+...entering string input...(enter help to display menu) 
+System Admin selected: switch
+Press enter to start menu option...
+
+0.Exit the program
+1.System Admin
+2.Nurse
+3.Doctor
+4.Hospital Admin
+
+Select your role number from above selection
+...entering integer input...
+Enter your user name: 
+...entering string input...(enter help to display menu) 
+User entered role ID: 3, user name: Dr Who
+User logged in as Doctor
+...entering string input...(enter help to display menu) 
+Doctor selected: printAll
+Press enter to start menu option...
+##########PATIENT TRIAGED LIST##########
+
+*******PATIENT INFORMATION*******
+Patient ID: 2
+First name: Mike
+Middle name: L
+Last name: Clark
+Suffix: Jr
+Ailments: broken nose
+Ailments: excessive bleeding
+Doctor: Suess
+Treated Status: Not Treated
+Priority: 100
+*********************************
+
+
+*******PATIENT INFORMATION*******
+Patient ID: 4
+First name: Daniel
+Middle name: Lee
+Last name: Clark
+Suffix: 
+Ailments: whiny
+Doctor: House
+Treated Status: Not Treated
+Priority: 9001
+*********************************
+
+###########END OF TRIAGED LIST##########
+
+
+##########PATIENT TREATED LIST##########
+
+*******PATIENT INFORMATION*******
+Patient ID: 3
+First name: Amy
+Middle name: N
+Last name: Clark
+Suffix: 
+Ailments: severe cough
+Doctor: Pepper
+Treated Status: Already Treated
+Priority: 1
+*********************************
+
+###########END OF TREATED LIST##########
+
+...entering string input...(enter help to display menu) 
+Doctor selected: switch
+Press enter to start menu option...
+
+0.Exit the program
+1.System Admin
+2.Nurse
+3.Doctor
+4.Hospital Admin
+
+Select your role number from above selection
+...entering integer input...
+Enter your user name: 
+...entering string input...(enter help to display menu) 
+User entered role ID: 1, user name: System Admin2
+User logged in as System Admin
+...entering string input...(enter help to display menu) 
+System Admin selected: debug
+Press enter to start menu option...
+Switching to debug mode
+...entering string input...(enter help to display menu) 
+System Admin selected: switch
+Press enter to start menu option...
+
+0.Exit the program
+1.System Admin
+2.Nurse
+3.Doctor
+4.Hospital Admin
+
+Select your role number from above selection
+...entering integer input...
+Enter your user name: 
+...entering string input...(enter help to display menu) 
+User entered role ID: 3, user name: Dr Who
+User logged in as Doctor
+...entering string input...(enter help to display menu) 
+Doctor selected: printALl
+Press enter to start menu option...
+...entering string input...(enter help to display menu) 
+Doctor selected: switch
+Press enter to start menu option...
+
+0.Exit the program
+1.System Admin
+2.Nurse
+3.Doctor
+4.Hospital Admin
+
+Select your role number from above selection
+...entering integer input...
+Enter your user name: 
+...entering string input...(enter help to display menu) 
+User entered role ID: 1, user name: System Admin2
+User logged in as System Admin
+...entering string input...(enter help to display menu) 
+System Admin selected: debug
+Press enter to start menu option...
+Switching to debug mode
